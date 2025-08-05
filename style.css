@@ -61,7 +61,7 @@ header .logo img {
 
 .main-nav ul li a:hover {
     color: #ff4081;
-    background-color: #111;
+    background-color: none;
     text-decoration: underline;
 }
 #main .container{
@@ -348,5 +348,6 @@ section#services h2 {
     gap: 10px;
   }
 }
+
 
 
