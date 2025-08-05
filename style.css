@@ -47,6 +47,7 @@ header .logo img {
     list-style: none;
     display: flex;
     gap: 20px;
+    
 }
 
 .main-nav ul li a {
@@ -56,11 +57,11 @@ header .logo img {
     font-size: 1rem;
     padding: 8px 12px;
     border-radius: 50px;
-    transition: background-color 0.4s ease, color 0.3s ease;
+    transition: color 0.3s ease;
 }
 
 .main-nav ul li a:hover {
-    color: #ff4081;
+    color: black;
     background-color: none;
     text-decoration: underline;
 }
@@ -348,6 +349,7 @@ section#services h2 {
     gap: 10px;
   }
 }
+
 
 
 
