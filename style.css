@@ -62,7 +62,7 @@ header .logo img {
 .main-nav ul li a:hover {
     color: #ff4081;
     background-color: #111;
-    text-decoration: undeline;
+    text-decoration: underline;
 }
 #main .container{
     display: flex;
@@ -348,4 +348,5 @@ section#services h2 {
     gap: 10px;
   }
 }
+
 
