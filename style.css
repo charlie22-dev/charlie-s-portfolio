@@ -61,10 +61,11 @@ header .logo img {
 }
 
 .main-nav ul li a:hover {
-    color: black;
-    background-color: none;
-    text-decoration: underline;
+    color: white;
+    text-decoration: none ;
+    background-color: indigo;
 }
+
 #main .container{
     display: flex;
     align-items: center;
@@ -349,6 +350,7 @@ section#services h2 {
     gap: 10px;
   }
 }
+
 
 
 
